@@ -3,10 +3,13 @@ import subprocess
 import pathlib
 
 HIDDEN_FILE = ".part2-done"
+COMPLETION_FILE = "assignment_complete"
 
 
 def check_git_output(command, contains):
-    output = subprocess.run(["git", command], capture_output=True).stdout.decode()
+    output = subprocess.run(
+        ["git", command], capture_output=True
+    ).stdout.decode()
     if contains in output.lower():
         return True
     else:
@@ -59,6 +62,10 @@ def check_part4():
         print("Be sure to add the secret word to part4.txt.")
     else:
         print("Great job, all done!")
+        with open(COMPLETION_FILE, "w") as f:
+            f.write(
+                "Congratulations!! All checks have passed for this assignment."
+            )
 
 
 if __name__ == "__main__":
