@@ -16,6 +16,14 @@ When you've done so, add a commit with the message "part 1 done!"
 
 Run `python3 check.py 1` to check that your commit exists and is correct.
 
+Note: If the check is still not passing, run `git log` and confirm that your commit message was, in fact, "part 1 done!". If you accidentally made a typo, make an empty git commit with the correct spelling, as follows:
+
+```
+git commit --allow-empty -m "part 1 done!"
+```
+
+Then reattempt the check.
+
 ## Part 2 - Making & Reverting Changes with `git restore`
 
 Open up the file 'part2.txt' and make the modifications it describes. (Do not commit them yet!)
