@@ -57,6 +57,8 @@ You can also try this using the GitHub interface which offers an alternative int
 
 ![](readme-screenshot.png)
 
+Once you complete part 4, add and commit your change to the file and then run the last check: `python3 check.py 4`. You should receive a success messge.
+
 ### A Note About Secrets
 
 Consider what part 4 means for actual secrets, such as a password or other sensitive information.
@@ -64,3 +66,9 @@ Consider what part 4 means for actual secrets, such as a password or other sensi
 It is difficult to _actually remove_ sensitive information from a published Git repository.
 
 For this reason, be sure to avoid committing passwords or other information that you wouldn't want someone to see.
+
+## Submitting Your Assignment
+
+Push your code to your GitHub using the command `git push`.  This will sync the code on your remote GitHub branch (`main`) with the code from your current local branch of the same name. Navigate to your assignment GitHub repository and confirm that the code updates are present. View the commits you made and the files that have changed.
+
+Go to the CAPP Camp [Gradescope course](https://www.gradescope.com/courses/834709) and click on the "Git Lab" assignment.  Follow the instructions for submitting your repository. An auto-grader will then run and re-execute the `check.py` script.  If you completed the assignment correctly, your code should pass without any errors.
