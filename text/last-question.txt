@@ -3,11 +3,11 @@ via https://users.ece.cmu.edu/~gamvrosi/thelastq.html
 
 ===
 
-The last question was asked for the first time, half in jest, on May 21, 2061, at a time when humanity first stepped into the light. The question came about as a result of a five-dollar bet over highballs, and it happened this way:
+The last ? was asked for the first time, half in jest, on May 21, 2061, at a time when humanity first stepped into the light. The ? came about as a result of a five-dollar bet over highballs, and it happened this way:
      Alexander Adell and Bertram Lupov were two of the faithful attendants of Multivac. As well as any human beings could, they knew what lay behind the cold, clicking, flashing face -- miles and miles of face -- of that giant computer. They had at least a vague notion of the general plan of relays and circuits that had long since grown past the point where any single human could possibly have a firm grasp of the whole.
-     Multivac was self-adjusting and self-correcting. It had to be, for nothing human could adjust and correct it quickly enough or even adequately enough. So Adell and Lupov attended the monstrous giant only lightly and superficially, yet as well as any men could. They fed it data, adjusted questions to its needs and translated the answers that were issued. Certainly they, and all others like them, were fully entitled to share in the glory that was Multivac's.
+     Multivac was self-adjusting and self-correcting. It had to be, for nothing human could adjust and correct it quickly enough or even adequately enough. So Adell and Lupov attended the monstrous giant only lightly and superficially, yet as well as any men could. They fed it data, adjusted ?s to its needs and translated the answers that were issued. Certainly they, and all others like them, were fully entitled to share in the glory that was Multivac's.
      For decades, Multivac had helped design the ships and plot the trajectories that enabled man to reach the Moon, Mars, and Venus, but past that, Earth's poor resources could not support the ships. Too much energy was needed for the long trips. Earth exploited its coal and uranium with increasing efficiency, but there was only so much of both.
-     But slowly Multivac learned enough to answer deeper questions more fundamentally, and on May 14, 2061, what had been theory, became fact.
+     But slowly Multivac learned enough to answer deeper ?s more fundamentally, and on May 14, 2061, what had been theory, became fact.
      The energy of the sun was stored, converted, and utilized directly on a planet-wide scale. All Earth turned off its burning coal, its fissioning uranium, and flipped the switch that connected all of it to a small station, one mile in diameter, circling the Earth at half the distance of the Moon. All Earth ran by invisible beams of sunpower.
      Seven days had not sufficed to dim the glory of it and Adell and Lupov finally managed to escape from the public functions, and to meet in quiet where no one would think of looking for them, in the deserted underground chambers, where portions of the mighty buried body of Multivac showed. Unattended, idling, sorting data with contented lazy clickings, Multivac, too, had earned its vacation and the boys appreciated that. They had no intention, originally, of disturbing it.
      They had brought a bottle with them, and their only concern at the moment was to relax in the company of each other and the bottle.
@@ -41,7 +41,7 @@ The last question was asked for the first time, half in jest, on May 21, 2061, a
      "Never."
      "Ask Multivac."
      "You ask Multivac. I dare you. Five dollars says it can't be done."
-     Adell was just drunk enough to try, just sober enough to be able to phrase the necessary symbols and operations into a question which, in words, might have corresponded to this: Will mankind one day without the net expenditure of energy be able to restore the sun to its full youthfulness even after it had died of old age?
+     Adell was just drunk enough to try, just sober enough to be able to phrase the necessary symbols and operations into a ? which, in words, might have corresponded to this: Will mankind one day without the net expenditure of energy be able to restore the sun to its full youthfulness even after it had died of old age?
      Or maybe it could be put more simply like this: How can the net amount of entropy of the universe be massively decreased?
      Multivac fell dead and silent. The slow flashing of lights ceased, the distant sounds of clicking relays ended.
      Then, just as the frightened technicians felt they could hold their breath no longer, there was a sudden springing to life of the teletype attached to that portion of Multivac. Five words were printed: INSUFFICIENT DATA FOR MEANINGFUL ANSWER.
@@ -52,7 +52,7 @@ The last question was asked for the first time, half in jest, on May 21, 2061, a
      The little Jerrodettes, both girls, had experienced the hyperspace passage for the first time in their lives and were self-conscious over the momentary sensation of insideoutness. They buried their giggles and chased one another wildly about their mother, screaming, "We've reached X-23 -- we've reached X-23 -- we've --"
      "Quiet, children." said Jerrodine sharply. "Are you sure, Jerrodd?"
      "What is there to be but sure?" asked Jerrodd, glancing up at the bulge of featureless metal just under the ceiling. It ran the length of the room, disappearing through the wall at either end. It was as long as the ship.
-     Jerrodd scarcely knew a thing about the thick rod of metal except that it was called a Microvac, that one asked it questions if one wished; that if one did not it still had its task of guiding the ship to a preordered destination; of feeding on energies from the various Sub-galactic Power Stations; of computing the equations for the hyperspatial jumps.
+     Jerrodd scarcely knew a thing about the thick rod of metal except that it was called a Microvac, that one asked it ?s if one wished; that if one did not it still had its task of guiding the ship to a preordered destination; of feeding on energies from the various Sub-galactic Power Stations; of computing the equations for the hyperspatial jumps.
      Jerrodd and his family had only to wait and live in the comfortable residence quarters of the ship. Someone had once told Jerrodd that the "ac" at the end of "Microvac" stood for ''automatic computer" in ancient English, but he was on the edge of forgetting even that.
      Jerrodine's eyes were moist as she watched the visiplate. "I can't help it. I feel funny about leaving Earth."
      "Why, for Pete's sake?" demanded Jerrodd. "We had nothing there. We'll have everything on X-23. You won't be alone. You won't be a pioneer. There are over a million people on the planet already. Good Lord, our great-grandchildren will be looking for new worlds because X-23 will be overcrowded." Then, after a reflective pause, "I tell you, it's a lucky thing the computers worked out interstellar travel the way the race is growing."
@@ -109,7 +109,7 @@ The last question was asked for the first time, half in jest, on May 21, 2061, a
      "Do you have trees on your world?" asked MQ-17J.
      The sound of the Galactic AC startled them into silence. Its voice came thin and beautiful out of the small AC-contact on the desk. It said: THERE IS INSUFFICIENT DATA FOR A MEANINGFUL ANSWER.
      VJ-23X said, "See!"
-     The two men thereupon returned to the question of the report they were to make to the Galactic Council.
+     The two men thereupon returned to the ? of the report they were to make to the Galactic Council.
      Zee Prime's mind spanned the new Galaxy with a faint interest in the countless twists of stars that powdered it. He had never seen this one before. Would he ever see them all? So many of them, each with its load of humanity. --But a load that was almost a dead weight. More and more, the real essence of men was to be found out here, in space.
      Minds, not bodies! The immortal bodies remained back on the planets, in suspension over the eons. Sometimes they roused for material activity but that was growing rarer. Few new individuals were coming into existence to join the incredibly mighty throng, but what matter? There was little room in the Universe for new individuals.
      Zee Prime was roused out of his reverie upon coming across the wispy tendrils of another mind.
@@ -154,14 +154,14 @@ The last question was asked for the first time, half in jest, on May 21, 2061, a
      Man said, "Carefully husbanded, as directed by the Cosmic AC, the energy that is even yet left in all the Universe will last for billions of years."
      "But even so," said Man, "eventually it will all come to an end. However it may be husbanded, however stretched out, the energy once expended is gone and cannot be restored. Entropy must increase forever to the maximum."
      Man said, "Can entropy not be reversed? Let us ask the Cosmic AC."
-     The Cosmic AC surrounded them but not in space. Not a fragment of it was in space. It was in hyperspace and made of something that was neither matter nor energy. The question of its size and nature no longer had meaning in any terms that Man could comprehend.
+     The Cosmic AC surrounded them but not in space. Not a fragment of it was in space. It was in hyperspace and made of something that was neither matter nor energy. The ? of its size and nature no longer had meaning in any terms that Man could comprehend.
      "Cosmic AC," said Man, "how may entropy be reversed?"
      The Cosmic AC said, "THERE IS AS YET INSUFFICIENT DATA FOR A MEANINGFUL ANSWER."
      Man said, "Collect additional data."
      The Cosmic AC said, 'I WILL DO S0. I HAVE BEEN DOING SO FOR A HUNDRED BILLION YEARS. MY PREDECESORS AND I HAVE BEEN ASKED THIS QUESTION MANY TlMES. ALL THE DATA I HAVE REMAINS INSUFFICIENT.
      "Will there come a time," said Man, 'when data will be sufficient or is the problem insoluble in all conceivable circumstances?"
      The Cosmic AC said, "NO PROBLEM IS INSOLUBLE IN ALL CONCEIVABLE CIRCUMSTANCES."
-     Man said, "When will you have enough data to answer the question?"
+     Man said, "When will you have enough data to answer the ??"
      The Cosmic AC said, "THERE IS AS YET INSUFFICIENT DATA FOR A MEANINGFUL ANSWER."
      "Will you keep working on it?" asked Man.
      The Cosmic AC said, "I WILL."
@@ -172,13 +172,13 @@ The last question was asked for the first time, half in jest, on May 21, 2061, a
      Man said, "AC, is this the end? Can this chaos not be reversed into the Universe once more? Can that not be done?"
      AC said, "THERE IS AS YET INSUFFICIENT DATA FOR A MEANINGFUL ANSWER."
      Man's last mind fused and only AC existed -- and that in hyperspace.
-     Matter and energy had ended and with it space and time. Even AC existed only for the sake of the one last question that it had never answered from the time a half-drunken computer [technician] ten trillion years before had asked the question of a computer that was to AC far less than was a man to Man.
-     All other questions had been answered, and until this last question was answered also, AC might not release his consciousness.
+     Matter and energy had ended and with it space and time. Even AC existed only for the sake of the one last ? that it had never answered from the time a half-drunken computer [technician] ten trillion years before had asked the ? of a computer that was to AC far less than was a man to Man.
+     All other ?s had been answered, and until this last ? was answered also, AC might not release his consciousness.
      All collected data had come to a final end. Nothing was left to be collected.
      But all collected data had yet to be completely correlated and put together in all possible relationships.
      A timeless interval was spent in doing that.
      And it came to pass that AC learned how to reverse the direction of entropy.
-     But there was now no man to whom AC might give the answer of the last question. No matter. The answer -- by demonstration -- would take care of that, too.
+     But there was now no man to whom AC might give the answer of the last ?. No matter. The answer -- by demonstration -- would take care of that, too.
      For another timeless interval, AC thought how best to do this. Carefully, AC organized the program.
      The consciousness of AC encompassed all of what had once been a Universe and brooded over what was now Chaos. Step by step, it must be done.
      And AC said, "LET THERE BE LIGHT!"
